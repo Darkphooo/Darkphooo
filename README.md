@@ -1,4 +1,6 @@
-### Hi there 👋
+|Base Info|Dashboard Data|
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| __Hi, I am Darkphooo! 👋__<br/>1. 🔭 I’m currently working on Nanjing, China<br/>2. 🌱 I’m currently learning Vue and Node.js<br/>3. 📫 How to reach me: dark.xiaoyao@live.com | [![Darkphooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkphooo&show_icons=true)](https://github.com/Darkphooo/github-readme-stats) |
 
 <!--
 **Darkphooo/Darkphooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
